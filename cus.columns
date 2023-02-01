@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"name_vc","STRING","15","0","0"
+"add_vc","STRING","27","0","0"
+"vc_id","INTEGER","5","5","0"
